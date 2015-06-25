@@ -1,1 +1,1 @@
-web: node step8/server.js
+web: node server.js

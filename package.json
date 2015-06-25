@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/webrtc/codelab"
+    "url": "https://github.com/tevinjoseph/webrtc-demo.git"
   },
   "keywords": [
     "webrtc",
